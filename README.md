@@ -1,5 +1,3 @@
-Course Machine Hearing 2025-2026, Enrichment Assignments
-
 # Introduction to the Enrichment Assignments
 <p align = "justify">This repository contains the assignments and code for the Enrichment Assignments of the Course SOW-MKI85 Machine Hearing 2025-2026.
 
