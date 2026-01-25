@@ -61,7 +61,7 @@ batsize        = 32 # define batch size
 learning_rate  = 0.0002 # define learning rate
 nr_channels    = 1 # This specifies the number of channels that is used. Can be set either to 1 or 3.
 nr_classes     = 5 # For the ESC50 dataset, the nr of classes is 5. 
-max_epochs     = 50
+max_epochs     = 80
 
 # track hyperparameters and run metadata
 wandb.config={
