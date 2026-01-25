@@ -1,3 +1,8 @@
+"""
+This script contains utility and helper functions for training the ResNet18 implementation on ESC-50.
+"""
+
+# Import modules and packages
 import torch
 import wandb
 from tqdm import tqdm
