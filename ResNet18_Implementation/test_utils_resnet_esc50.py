@@ -1,8 +1,12 @@
+"""
+This script contains utility and helper functions. 
+"""
+
+# Import packages and modules
 import torch
 from tqdm import tqdm
 
-
-# define prediction function
+# Define prediction function
 def predict(model, test_generator, device, keys):
     model.eval()
     with torch.no_grad(): # Context-manager that disables gradient calculation. Useful for inference to reduce memory consumption.
