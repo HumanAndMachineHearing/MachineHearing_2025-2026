@@ -1,5 +1,8 @@
-# script to test resnet on independent dataset
+"""
+This script can be used to evaluate the performance of the ResNet18 implementation. 
+"""
 
+# Import packages and modules
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -9,14 +12,12 @@ import random
 import pandas as pd 
 import os  
 import pickle
-
 from resnet18 import ResNet, BasicBlock
-# evaluate what is needed here
 from utils_resnet_esc50 import Dataset
 from test_utils_resnet_esc50 import predict
 
 # read file to create list of IDs 
-filepath = '/content/drive/MyDrive/soundclass_resnet18_v3/'
+filepath = '/content/drive/MyDrive/soundclass_resnet18/'
 filename_csv = 'esc50_edited.csv'
 filename_keypairs = 'labels_after_training.pkl'
 filename_model = 'trained_model_threechannel_50epochs.pt'
