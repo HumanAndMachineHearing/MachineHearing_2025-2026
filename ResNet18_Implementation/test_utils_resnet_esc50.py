@@ -1,5 +1,5 @@
 """
-This script contains utility and helper functions. 
+This script contains utility and helper functions for the evaluation of the ResNet18 implementation. 
 """
 
 # Import packages and modules
