@@ -1,11 +1,13 @@
+"""
+This script contains the ResNet-18 model architecture.
+"""
+
+# Import packages and modules
 import torch.nn as nn
 import torch
-
 from torch import Tensor
-from typing import Type # this is for type checking which is relevant when
-                        # building complex architectures
+from typing import Type 
     
-
 # define a Python class for the Basic blocks
 class BasicBlock(nn.Module):
     def __init__(
@@ -53,7 +55,6 @@ class BasicBlock(nn.Module):
         return  out
 
 # code for the ResNet module
-
 class ResNet(nn.Module):
     def __init__(
         self, 
