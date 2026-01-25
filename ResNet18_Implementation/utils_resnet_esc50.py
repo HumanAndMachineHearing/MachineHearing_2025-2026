@@ -1,5 +1,11 @@
+"""
+This script contains utility and helper functions for ResNet18.
+"""
+
+# Import packages and modules
 import torch
 
+# Define dataloader
 class Dataset(torch.utils.data.Dataset):
     # create dataset
     def __init__(self, list_IDs, labels):
