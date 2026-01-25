@@ -52,7 +52,7 @@ After successful completion of the enrichment assignments, you can...
 <p align = "justify">You can download assignments, clone the repository or open an assignment in Google Colab using the link at the top of the script. In total, there will be six assignments.   
 
 # Report Enrichment Assignments
-<p align = "justify">The Enrichment Assignments are completed with a Report. The template for the report can be found here: https://www.overleaf.com/read/pcwnmvymvfxt#bfea93. 
+<p align = "justify">The Enrichment Assignments are completed with a Report. The template for the report can be found here: https://www.overleaf.com/read/smrqqnprskbc#899035. 
 
 # References
 [1] Piczak, K. J. (2015, October). ESC: Dataset for environmental sound classification. In Proceedings of the 23rd ACM international conference on Multimedia (pp. 1015-1018).
