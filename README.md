@@ -55,3 +55,6 @@ After successful completion of the enrichment assignments, you can...
 [1] Piczak, K. J. (2015, October). ESC: Dataset for environmental sound classification. In Proceedings of the 23rd ACM international conference on Multimedia (pp. 1015-1018).
 <br>
 [2] He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
+
+# Troubleshooting:
+In case you encounter compatibility issues for ffmpeg, have a look at the following compatibility table: https://github.com/meta-pytorch/torchcodec?tab=readme-ov-file#installing-torchcodec. Create an environment in which you can install compatible versions. 
