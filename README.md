@@ -57,4 +57,4 @@ After successful completion of the enrichment assignments, you can...
 [2] He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
 
 # Troubleshooting:
-In case you encounter compatibility issues for ffmpeg, have a look at the following compatibility table: https://github.com/meta-pytorch/torchcodec?tab=readme-ov-file#installing-torchcodec. Create an environment in which you can install compatible versions. 
+In case you encounter compatibility issues for ffmpeg, have a look at the following compatibility table: https://github.com/meta-pytorch/torchcodec?tab=readme-ov-file#installing-torchcodec. Create an environment in which you can install compatible versions. For more information, see also: https://docs.pytorch.org/audio/2.8/installation.html 
