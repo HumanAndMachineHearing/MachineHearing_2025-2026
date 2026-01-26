@@ -13,7 +13,7 @@
 <br>
 • Assess generalization to a different audio domain
 
-<p align = "justify">The assignments consists of six sessions. Session 1 and Session 2 introduce the assignment, the dataset, relevant concepts, frameworks, libraries, and audio feature extraction. Session 3 and Session 4 cover data preprocessing and training the ResNet-18 model on different sets of audio features, while Session 5 is focused on analyzing and visualizing model performance. To conclude, Session 6 is dedicated to placing your findings within a wider theoretical framework based on your newly acquired knowledge of AI for Audio.  
+<p align = "justify">The assignments consists of six sessions. Session 1 and Session 2 introduce the assignment, the dataset, relevant concepts, frameworks, libraries, and audio feature extraction. Session 3 and Session 4 cover data preprocessing and training the ResNet-18 model on different sets of audio features, while Session 5 and 6 focus on analyzing and visualizing model performance and assessing the generalization of your trained model to a different audio classification domain.  
 
 ## Intended learning outcomes
 After successful completion of the enrichment assignments, you can...
